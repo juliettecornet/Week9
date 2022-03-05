@@ -1,6 +1,6 @@
 # Week 9 Assignment 
-## A Midsummer Night's Dream Network Analysis 
-The notebook in this repository is a copy of my Week 8 network analysis assigment. In the notebook, I import Shakespeare's A Midsummer Night's Dream and split up the acts and scenes to be able to identify all the characters and which scenes they appear in together and how frequently. I then make my characters are nodes in a network and their appearances in scenes together as edges. From there, I visizulaize this network with a graph and clean uo the graph so that it is more readable. I also idenify the different communities of chatacters in the play.  
+## Analysis of AIDS dataset from CORGIS 
+The notebook in this repository is a copy of my Week 5 assignmemnt in which I look into the AIDS dataset from Corgis. In the notebook, I import the data set using requests and Beautiful soup in order to do some webscrapping the access to access the webpage with the AIDS data. Once I create a function to access the webpage and data, I make a lineplot, a bar plot and histogram plot of the respective data. the purpose of this assignment was to learn how to scrap data from the web using Python. 
 
 To get an interactive version, click here: 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/juliettecornet/Week9/HEAD)
+

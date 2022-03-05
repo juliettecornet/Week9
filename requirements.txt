@@ -1,5 +1,4 @@
 requests
+pandas
 bs4
-jupyter-dash
-dash-cytoscape
-jupyterlab-dash
+matplotlib.pyplot
