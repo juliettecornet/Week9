@@ -1,6 +1,8 @@
 requests
+bs4
 beautifulsoup 
 dash
 dash_cytoscape
 dash.dependencies
 jupyter_dash
+jupyter_dash.comms
