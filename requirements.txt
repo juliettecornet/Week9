@@ -1,6 +1,5 @@
 requests
 bs4
-BeautifulSoup 
 dash
 dash_cytoscape
 dash.dependencies
