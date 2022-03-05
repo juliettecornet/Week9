@@ -1,3 +1,4 @@
 requests
 bs4
 jupyter-dash
+dash-cytoscape
