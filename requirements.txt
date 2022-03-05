@@ -1,7 +1,3 @@
 requests
 bs4
-dash
-dash_cytoscape
-dash.dependencies
-jupyter_dash
-jupyter_dash.comms
+jupyter-dash
